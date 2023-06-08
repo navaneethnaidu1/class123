@@ -1,0 +1,15 @@
+reverse[j]=str[i]; j++;
+
+reverse[j]='\0'; if(strcmp(reverse, str)==0)
+
+{
+
+}
+
+else
+
+printf("YESK);
+
+printf("NO");
+
+return 0
